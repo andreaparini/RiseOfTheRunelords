@@ -72,9 +72,9 @@ If they are breezing through then liberally apply elite templates or add minions
   - [Elite](http://2e.aonprd.com/Rules.aspx?ID=790): [Plague Zombies](http://2e.aonprd.com/Monsters.aspx?ID=424)
 
 ### A16 
-  - Erin Habe TO DO
-  - Grayst Sevilla TO DO
-  - Caizarlu Zerren TO DO
+  - Erin Habe : [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
+  - Grayst Sevilla : [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
+  - Caizarlu Zerren : [Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929)
 
 ## Part 3: Walking Scarecrows (XP ??, Party Level 5)
 
