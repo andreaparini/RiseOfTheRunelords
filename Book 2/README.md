@@ -73,8 +73,14 @@ If they are breezing through then liberally apply elite templates or add minions
 
 ### A16 
   - Erin Habe : [Elite](http://2e.aonprd.com/Rules.aspx?ID=790) [Surgeon](https://2e.aonprd.com/NPCs.aspx?ID=910)
+  - Loot: Moderate Healing Potion, Salve of Antiparalysis, Barkskin Potion, Healer's Tools
+
+
   - Grayst Sevilla : [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
+
+
   - Caizarlu Zerren : [Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929)
+  - Loot: Scroll of Lightning Bolt, Moderate Healing Potion, Wand of Continuation (1st), Staff of Necromancy, Armor Potency +1 Rune, 118 GP. 250 GP in te structure.
 
 ## Part 3: Walking Scarecrows (XP ??, Party Level 5)
 
