@@ -79,7 +79,7 @@ If they are breezing through then liberally apply elite templates or add minions
   - Grayst Sevilla : [Ruffian](https://2e.aonprd.com/NPCs.aspx?ID=888)
 
 
-  - Caizarlu Zerren : [Necromancer](https://2e.aonprd.com/NPCs.aspx?ID=929)
+  - Caizarlu Zerren : ![PDF](./Statblocks/caizarlu_zerren-1614780296.png)
   - Loot: Scroll of Lightning Bolt, Moderate Healing Potion, Wand of Continuation (1st), Staff of Necromancy, Armor Potency +1 Rune, 118 GP. 250 GP in te structure.
 
 ## Part 3: Walking Scarecrows (XP ??, Party Level 5)
